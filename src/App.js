@@ -54,8 +54,8 @@ function App() {
           placeholder="Type a number" 
         /> 
         <button onClick={plus}>add</button> 
-        <button onClick={minus}>minus</button> 
-        <button onClick={times}>times</button> 
+        <button onClick={minus}>subtract</button> 
+        <button onClick={times}>multiply</button> 
         <button onClick={divide}>divide</button> 
         <button onClick={resetInput}>reset input</button> 
         <button onClick={resetResult}>reset result</button> 
